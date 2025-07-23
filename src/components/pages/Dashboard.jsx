@@ -1,10 +1,12 @@
 import React from 'react'
+// import Card from '../Card'
 
 const Dashboard = () => {
   return (
-    <div className='contain'>
-      <h1 className='dark:text-white dark:bg-black'>Welcome to the Dashboard</h1>
-    </div>
+    <>
+    hello world
+   {/* <Card/> */}
+   </>
   )
 }
 

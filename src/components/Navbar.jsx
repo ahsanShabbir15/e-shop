@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import logo from '../assets/logo.avif';
 import { BsCart4 } from 'react-icons/bs';
 import { GiCrossedAirFlows, GiHamburgerMenu } from 'react-icons/gi';

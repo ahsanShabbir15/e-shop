@@ -5,6 +5,7 @@ import Login from './Login';
 import SignUp from './SignUp';
 import Products from './Products';
 import Cart from './Cart';
+import Card from '../Card';
 import ErrorPage from './ErrorPage';
 import Dashboard from './Dashboard';
 
@@ -16,6 +17,7 @@ export {
     SignUp,
     Products,
     Cart,
+    Card,
     ErrorPage,
     Dashboard,
 };
